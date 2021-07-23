@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Weather
-//
-//  Created by Chandarong Nuon on 6/10/18.
-//  Copyright © 2018 App Elegant. All rights reserved.
-//
-
 import Foundation
 import UIKit
 import Alamofire
